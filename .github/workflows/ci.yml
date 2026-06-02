@@ -14,8 +14,6 @@ jobs:
         include:
           - platform: macos-14
             label: macOS Apple Silicon
-          - platform: macos-13
-            label: macOS Intel
           - platform: windows-latest
             label: Windows x64
           - platform: ubuntu-22.04
